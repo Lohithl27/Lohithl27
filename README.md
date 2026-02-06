@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Humanoid robot design and coding<br>👯 I’m looking to collaborate on coding support<br>🤝 I’m looking for help with ROS2 <br>🌱 I’m currently learning ROS, C++,Python<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Humanoid robot design and coding<br>👯 I’m looking to collaborate on coding support<br>🤝 I’m looking for help with ROS2 <br>🌱 I’m currently learning ROS, C++,Python<br>💬 Ask me about<br>⚡ Fun fact not knowing anythings 🥲
 
 
 ## 🌐 Socials:
